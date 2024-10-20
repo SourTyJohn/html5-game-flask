@@ -1,0 +1,28 @@
+{
+  "name": "infinity-rush",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.js",
+  "private": true,
+  "scripts": {
+    "build": ""
+  },
+  "keywords": [],
+  "author": "Daniel <https://github.com/SourTyJohn>",
+  "license": "",
+  "engines": {
+    "node": "^20.18.0",
+    "npm": "^10.8.2"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.8",
+    "babelify": "^10.0.0",
+    "browser-sync": "^3.0.3",
+    "browserify": "^17.0.1",
+    "gulp": "^5.0.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-notify": "^5.0.0",
+    "gulp-rename": "^2.0.0",
+    "pixi.js": "^8.5.1"
+  }
+}
